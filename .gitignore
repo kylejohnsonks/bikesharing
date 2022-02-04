@@ -115,3 +115,4 @@ dmypy.json
 201908-citibike-tripdata.csv
 output/.DS_Store
 .DS_Store
+output/citibike-formatted.csv
