@@ -5,32 +5,32 @@ The purpose of this project it to examine Citibike data from NYC to see how it i
 # Results
 ### Bike Utilization
 This image shows the total time each bike has been used and has implications for equipment replacment as well as maintenance.  In NYC Citybike sees relatively even distribtuion of usage across units.  A few bikes will need significantly more maitenance than the others.
-![Bike Utilization](resources/1.png)<hr>
-<img scr="resources/1.png" alt="Bike Utilization" height="400"/>
+<img src="resources/1.png" alt="Bike Utilization" height="700"/><hr>
+
 
 ### Title
 Explain...
-![Times All Users](resources/2.png)<hr>
+<br><img src="resources/2.png" alt="Times All Users" height="650"/><hr>
 
 ### Title
 Explain...
-![Times by Gender](resources/3.png)<hr>
+<br><img src="resources/3.png" alt="Times by Gender" height="550"/><hr>
 
 ### Title
 Explain...
-![Trips by Weekday per Hour](resources/4.png)<hr>
+<br><img src="resources/4.png" alt="Trips by Weekday per Hour" height="550"/><hr>
 
 ### Title
 Explain...
-![Gender Breakdown](resources/5.png)<br>
+<br><img src="resources/5.png" alt="Gender Breakdown" height="700"/><hr>
 
 ### Title
 Explain...
-![Trips by Weekday per Hour by Gender](resources/6.png)<hr>
+<br><img src="resources/6.png" alt="Trips by Weekday per Hour by Gender" height="700"/><hr>
 
 ### Title
 Explain...
-![Trips by Gender by Weekday](resources/7.png)<br>
+<br><img src="resources/7.png" alt="Trips by Gender by Weekday" height="700"/><hr>
 
 
 # Summary
