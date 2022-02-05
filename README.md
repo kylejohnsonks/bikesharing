@@ -23,11 +23,11 @@ This graph shows the number of trips by day and hour.  The darker bands around 8
 <br><img src="resources/4.png" alt="Trips by Weekday per Hour" height="550"/><hr>
 
 ### Trips by Weekday per Hour by Gender
-Explain...
+This plot shows similar usage patterns across gender, with most trips occuring on weekdays before and after work for both genders.
 <br><img src="resources/6.png" alt="Trips by Weekday per Hour by Gender"/><hr>
 
-### Trips by Gender by Weekday
-Explain...
+### Trips by Gender by Weekday and User Type
+This graph shows similar daily usage across gender.  It does show a difference in Customer vs Subscriber usage, with subcriber usage peaking during the week and customer usage more even, but slightly higher on weekends.  
 <br><img src="resources/7.png" alt="Trips by Gender by Weekday"/><hr>
 
 
