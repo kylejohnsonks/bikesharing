@@ -32,4 +32,4 @@ This graph shows similar daily usage across gender.  It does show a difference i
 
 
 # Summary
-
+The results show that males make up the majority of Citibike users in NYC, but that usage patterns are similar for both genders aside from that.  The graphs show clear differences between subscribers and other customers.  In particular, subscribers seem to use Citibike for transportation to an from work.  This could be verified by creating a map that displays end locations, filterable by starting location.   The most common trips are short, around 5 minutes, suggesting that the majority of consumption will be people who live within a short bike ride of their place of employment. Therefore a map of Des Moines with a plot of work places vs housing density would help to show where the best locations for a bike share service would be.  
