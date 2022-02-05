@@ -1,36 +1,34 @@
 # Bikesharing Overview
 The purpose of this project it to examine Citibike data from NYC to see how it informs the decision to start a bike sharing enterprise in Des Moines, IA.  A variety of visulazations have been created in Tableau to illustrate user behavior.  Those results are available in this [Tableau story](https://public.tableau.com/app/profile/kyle.johnson3941/viz/bikesharing_challenge_16439516176010/Story1?publish=yes).
 
-
 # Results
 ### Bike Utilization
 This image shows the total time each bike has been used and has implications for equipment replacment as well as maintenance.  In NYC Citybike sees relatively even distribtuion of usage across units.  A few bikes will need significantly more maitenance than the others.
 <img src="resources/1.png" alt="Bike Utilization" height="700"/><hr>
 
-
-### Title
-Explain...
+### Times - All Users
+This graph shows the count of rentals for each checkout duration.  The line peaks at 5 minutes, meaning this is the most common rental period.  
 <br><img src="resources/2.png" alt="Times All Users" height="650"/><hr>
 
-### Title
-Explain...
+### Gender Breakdown
+The gender breakdown graph shows that men represent the majority of users.
+<br><img src="resources/5.png" alt="Gender Breakdown"/><hr>
+
+### Times by Gender
+This is the same plot as the previous graph, but grouped by gender.  It shows that men are the predominate users, but that rental period across gender is similar, with the peak rental period for women being just slight shorter than men.
 <br><img src="resources/3.png" alt="Times by Gender" height="550"/><hr>
 
-### Title
-Explain...
+### Trips by Weekday per Hour
+This graph shows the number of trips by day and hour.  The darker bands around 8am and 5pm on Monday thru Friday show that trips are most fequent before and after work.  Saturday and Sunday show more even usage.  
 <br><img src="resources/4.png" alt="Trips by Weekday per Hour" height="550"/><hr>
 
-### Title
+### Trips by Weekday per Hour by Gender
 Explain...
-<br><img src="resources/5.png" alt="Gender Breakdown" height="700"/><hr>
+<br><img src="resources/6.png" alt="Trips by Weekday per Hour by Gender"/><hr>
 
-### Title
+### Trips by Gender by Weekday
 Explain...
-<br><img src="resources/6.png" alt="Trips by Weekday per Hour by Gender" height="700"/><hr>
-
-### Title
-Explain...
-<br><img src="resources/7.png" alt="Trips by Gender by Weekday" height="700"/><hr>
+<br><img src="resources/7.png" alt="Trips by Gender by Weekday"/><hr>
 
 
 # Summary
